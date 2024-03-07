@@ -1,0 +1,14 @@
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\bin\Debug\net8.0\7_ÖğrenciNotHesaplama.exe
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\bin\Debug\net8.0\7_ÖğrenciNotHesaplama.deps.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\bin\Debug\net8.0\7_ÖğrenciNotHesaplama.runtimeconfig.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\bin\Debug\net8.0\7_ÖğrenciNotHesaplama.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\bin\Debug\net8.0\7_ÖğrenciNotHesaplama.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\obj\Debug\net8.0\7_ÖğrenciNotHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\obj\Debug\net8.0\7_ÖğrenciNotHesaplama.AssemblyInfoInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\obj\Debug\net8.0\7_ÖğrenciNotHesaplama.AssemblyInfo.cs
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\obj\Debug\net8.0\7_ÖğrenciNotHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\obj\Debug\net8.0\7_ÖğrenciNotHesaplama.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\obj\Debug\net8.0\refint\7_ÖğrenciNotHesaplama.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\obj\Debug\net8.0\7_ÖğrenciNotHesaplama.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\obj\Debug\net8.0\7_ÖğrenciNotHesaplama.genruntimeconfig.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\7_ÖğrenciNotHesaplama\obj\Debug\net8.0\ref\7_ÖğrenciNotHesaplama.dll

@@ -1,0 +1,14 @@
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\bin\Debug\net8.0\4_RandomSayı.exe
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\bin\Debug\net8.0\4_RandomSayı.deps.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\bin\Debug\net8.0\4_RandomSayı.runtimeconfig.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\bin\Debug\net8.0\4_RandomSayı.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\bin\Debug\net8.0\4_RandomSayı.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\obj\Debug\net8.0\4_RandomSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\obj\Debug\net8.0\4_RandomSayı.AssemblyInfoInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\obj\Debug\net8.0\4_RandomSayı.AssemblyInfo.cs
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\obj\Debug\net8.0\4_RandomSayı.csproj.CoreCompileInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\obj\Debug\net8.0\4_RandomSayı.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\obj\Debug\net8.0\refint\4_RandomSayı.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\obj\Debug\net8.0\4_RandomSayı.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\obj\Debug\net8.0\4_RandomSayı.genruntimeconfig.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\4_RandomSayı\obj\Debug\net8.0\ref\4_RandomSayı.dll

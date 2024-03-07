@@ -1,0 +1,14 @@
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\obj\Debug\net8.0\1_SiparisNoAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\obj\Debug\net8.0\1_SiparisNoAlma.AssemblyInfoInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\obj\Debug\net8.0\1_SiparisNoAlma.AssemblyInfo.cs
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\obj\Debug\net8.0\1_SiparisNoAlma.csproj.CoreCompileInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\bin\Debug\net8.0\1_SiparisNoAlma.exe
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\bin\Debug\net8.0\1_SiparisNoAlma.deps.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\bin\Debug\net8.0\1_SiparisNoAlma.runtimeconfig.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\bin\Debug\net8.0\1_SiparisNoAlma.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\bin\Debug\net8.0\1_SiparisNoAlma.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\obj\Debug\net8.0\1_SiparisNoAlma.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\obj\Debug\net8.0\refint\1_SiparisNoAlma.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\obj\Debug\net8.0\1_SiparisNoAlma.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\obj\Debug\net8.0\1_SiparisNoAlma.genruntimeconfig.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\1_SiparisNoAlma\obj\Debug\net8.0\ref\1_SiparisNoAlma.dll

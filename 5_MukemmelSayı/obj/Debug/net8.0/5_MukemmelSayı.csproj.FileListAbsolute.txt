@@ -1,0 +1,14 @@
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\bin\Debug\net8.0\5_MukemmelSayı.exe
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\bin\Debug\net8.0\5_MukemmelSayı.deps.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\bin\Debug\net8.0\5_MukemmelSayı.runtimeconfig.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\bin\Debug\net8.0\5_MukemmelSayı.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\bin\Debug\net8.0\5_MukemmelSayı.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\obj\Debug\net8.0\5_MukemmelSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\obj\Debug\net8.0\5_MukemmelSayı.AssemblyInfoInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\obj\Debug\net8.0\5_MukemmelSayı.AssemblyInfo.cs
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\obj\Debug\net8.0\5_MukemmelSayı.csproj.CoreCompileInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\obj\Debug\net8.0\5_MukemmelSayı.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\obj\Debug\net8.0\refint\5_MukemmelSayı.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\obj\Debug\net8.0\5_MukemmelSayı.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\obj\Debug\net8.0\5_MukemmelSayı.genruntimeconfig.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\5_MukemmelSayı\obj\Debug\net8.0\ref\5_MukemmelSayı.dll

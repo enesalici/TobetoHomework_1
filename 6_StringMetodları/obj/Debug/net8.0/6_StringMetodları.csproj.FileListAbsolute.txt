@@ -1,0 +1,14 @@
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\bin\Debug\net8.0\6_StringMetodları.exe
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\bin\Debug\net8.0\6_StringMetodları.deps.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\bin\Debug\net8.0\6_StringMetodları.runtimeconfig.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\bin\Debug\net8.0\6_StringMetodları.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\bin\Debug\net8.0\6_StringMetodları.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\obj\Debug\net8.0\6_StringMetodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\obj\Debug\net8.0\6_StringMetodları.AssemblyInfoInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\obj\Debug\net8.0\6_StringMetodları.AssemblyInfo.cs
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\obj\Debug\net8.0\6_StringMetodları.csproj.CoreCompileInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\obj\Debug\net8.0\6_StringMetodları.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\obj\Debug\net8.0\refint\6_StringMetodları.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\obj\Debug\net8.0\6_StringMetodları.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\obj\Debug\net8.0\6_StringMetodları.genruntimeconfig.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\6_StringMetodları\obj\Debug\net8.0\ref\6_StringMetodları.dll

@@ -1,0 +1,14 @@
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\bin\Debug\net8.0\3_DoWhile.exe
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\bin\Debug\net8.0\3_DoWhile.deps.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\bin\Debug\net8.0\3_DoWhile.runtimeconfig.json
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\bin\Debug\net8.0\3_DoWhile.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\bin\Debug\net8.0\3_DoWhile.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\obj\Debug\net8.0\3_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\obj\Debug\net8.0\3_DoWhile.AssemblyInfoInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\obj\Debug\net8.0\3_DoWhile.AssemblyInfo.cs
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\obj\Debug\net8.0\3_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\obj\Debug\net8.0\3_DoWhile.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\obj\Debug\net8.0\refint\3_DoWhile.dll
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\obj\Debug\net8.0\3_DoWhile.pdb
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\obj\Debug\net8.0\3_DoWhile.genruntimeconfig.cache
+C:\Users\vayne\OneDrive\Masaüstü\TOBETO_ODEV_1\3_DoWhile\obj\Debug\net8.0\ref\3_DoWhile.dll
